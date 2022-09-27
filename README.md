@@ -9,7 +9,7 @@ es windows
 
 * Imagen desde url interna
 
-![](imagenes\dragonite.jpg)
+![](https://raw.githubusercontent.com/raulqlda/repositoriowindows/main/imagenes/dragonite.jpg)
 
 * enlace a otro documento **markdown**
 
