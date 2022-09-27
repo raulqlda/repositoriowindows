@@ -9,3 +9,8 @@ es windows
 
 * Imagen desde url interna
 
+![](imagenes\dragonite.jpg)
+
+* enlace a otro documento **markdown**
+
+[enlace](hola.md)
